@@ -12,16 +12,14 @@
             "id": "bf59af8635b0ea06",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "01_IELTS_Academic/Reading/Curiosity/Curiosity 1.0.pdf",
-                "page": 56,
-                "left": -29,
-                "top": 158,
-                "zoom": 0.5114208935169634
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "Curiosity 1.0"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -199,13 +197,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "0e85df84a4dfeaba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +233,8 @@
   },
   "active": "bf59af8635b0ea06",
   "lastOpenFiles": [
-    "01_IELTS_Academic/Reading/Curiosity/Test 15-The history (impact) of the Potato.md",
     "01_IELTS_Academic/Reading/Curiosity/Curiosity 1.0.pdf",
+    "01_IELTS_Academic/Reading/Curiosity/Test 15-The history (impact) of the Potato.md",
     "DEVOPS/Test 15-The history (impact) of the Potato.pdf",
     "Tags/IELTS.md",
     "Tags/BASH.md",
