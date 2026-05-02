@@ -8,7 +8,32 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "e7a7b303c61786dc",
+=======
+            "id": "bf59af8635b0ea06",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "30e5bd0c92e1f662",
+        "type": "tabs",
+        "dimension": 32.70918665886483,
+        "children": [
+          {
+            "id": "acff16b6ec952162",
+>>>>>>> 7ee436db63037aafbeabc54995853f4c2ef1421c
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,13 +210,31 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "0e85df84a4dfeaba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 826.5
+=======
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+>>>>>>> 7ee436db63037aafbeabc54995853f4c2ef1421c
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +258,7 @@
   },
   "active": "0e85df84a4dfeaba",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "01_IELTS_Academic/Reading/Practice/Starting school later has positive effect on teens.md",
     "01_IELTS_Academic/Reading/Practice/Stepwells.md",
     "01_IELTS_Academic/Reading/Practice/Inside the mouth-watering race to master lab-grown chocolate.md",
@@ -241,6 +285,23 @@
     "01_IELTS_Academic/Reading/Practice",
     "01_IELTS_Academic/Reading/Curiosity/Test 14-The History of Building Telegraph Lines.md",
     "01_IELTS_Academic/Reading/Curiosity/Test 13-The History of Dolls.md",
+=======
+    "01_IELTS_Academic/Reading/Curiosity/Curiosity 1.0.pdf",
+    "01_IELTS_Academic/Reading/Curiosity/Test 15-The history (impact) of the Potato.md",
+    "DEVOPS/Test 15-The history (impact) of the Potato.pdf",
+    "Tags/IELTS.md",
+    "Tags/BASH.md",
+    "01_IELTS_Academic/Writing/Writing haqida.md",
+    "Tags/WRITING.md",
+    "Tags/ENGLISH.md",
+    "01_IELTS_Academic/Writing/SYNONYMS.md",
+    "01_IELTS_Academic/Reading/Inside the mouth-watering race to master lab-grown chocolate.md",
+    "01_IELTS_Academic/Reading/FAIR GAMES? - Reading passage 2.md",
+    "Untitled.base",
+    "annotation-note.svg",
+    "2026-04-23.md",
+    "DEVOPS/01_PHP_Server_Maintaining_e_g.md",
+>>>>>>> 7ee436db63037aafbeabc54995853f4c2ef1421c
     "Untitled.canvas",
     "Homepage.md",
     "copilot/copilot-conversations/Obsidian_Copilot_tanishtiruvi@20260423_113502.md",
