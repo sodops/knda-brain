@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiEar",
+      "LiBot",
+      "LiTags",
+      "LiBolt",
+      "LiPen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01_IELTS_Academic/Reading/Curiosity/Curiosity 1.0.pdf": "LiBook",
+  "01_IELTS_Academic/Reading/Curiosity/Test 15-The history (impact) of the Potato.md": "LiQuestionMarkGlyph",
+  "01_IELTS_Academic/Reading": "LiRss",
+  "01_IELTS_Academic/Writing": "LiPen",
+  "01_IELTS_Academic": "LiStar",
+  "DEVOPS": "LiBolt",
+  "Tags": "LiTags",
+  "01_IELTS_Academic/Reading/Curiosity/Test 14-The History of Building Telegraph Lines.md": "LiQuestionMarkGlyph",
+  "01_IELTS_Academic/Reading/Curiosity/Test 13-The History of Dolls.md": "LiQuestionMarkGlyph",
+  "01_IELTS_Academic/Reading/Curiosity/Test 12-The History of the Globe Theatre.md": "LiQuestionMarkGlyph",
+  "01_IELTS_Academic/Reading/Curiosity": "LiAtom",
+  "01_IELTS_Academic/Reading/Practice": "🎲",
+  "copilot": "LiBot",
+  "01_IELTS_Academic/Listening": "LiEar"
+}

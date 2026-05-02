@@ -23,5 +23,18 @@
       ],
       "key": "W"
     }
+  ],
+  "app:open-help": [],
+  "command-palette:open": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "obsidian-importer:open-modal": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
   ]
 }

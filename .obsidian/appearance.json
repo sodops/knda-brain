@@ -2,7 +2,7 @@
   "accentColor": "#704ec1",
   "baseFontSize": 23,
   "baseFontSizeAction": true,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "cssTheme": "Minimal",
   "showRibbon": true,
   "showViewHeader": true

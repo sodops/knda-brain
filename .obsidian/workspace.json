@@ -1,49 +1,25 @@
 {
   "main": {
-    "id": "35e230b21eba1329",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "50a98501ebd2562a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 67.29081334113516,
         "children": [
           {
-            "id": "bf59af8635b0ea06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01_IELTS_Academic/Reading/Curiosity/Curiosity 1.0.pdf",
-                "page": 56,
-                "left": -29,
-                "top": 158,
-                "zoom": 0.5114208935169634
-              },
-              "icon": "lucide-file-text",
-              "title": "Curiosity 1.0"
-            }
-          }
-        ]
-      },
-      {
-        "id": "30e5bd0c92e1f662",
-        "type": "tabs",
-        "dimension": 32.70918665886483,
-        "children": [
-          {
-            "id": "acff16b6ec952162",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_IELTS_Academic/Reading/Curiosity/Test 15-The history (impact) of the Potato.md",
+                "file": "01_IELTS_Academic/Reading/Practice/Stepwells.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Test 15-The history (impact) of the Potato"
+              "title": "Stepwells"
             }
           }
         ]
@@ -65,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#copilot-conversation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "copilot/copilot-conversations/Obsidian_Copilot_tanishtiruvi@20260423_113502.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Obsidian_Copilot_tanishtiruvi@20260423_113502"
             }
           },
           {
@@ -138,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "copilot/copilot-conversations/Obsidian_Copilot_tanishtiruvi@20260423_113502.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Obsidian_Copilot_tanishtiruvi@20260423_113502"
             }
           },
           {
@@ -181,13 +157,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "copilot/copilot-conversations/Obsidian_Copilot_tanishtiruvi@20260423_113502.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Obsidian_Copilot_tanishtiruvi@20260423_113502"
+            }
+          },
+          {
+            "id": "0e85df84a4dfeaba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -196,69 +182,76 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 826.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "publish:Publish changes...": true,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "obsidian-git:Open Git source control": true,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": true,
+      "obsidian-importer:Open Importer": true
     }
   },
-  "active": "bf59af8635b0ea06",
+  "active": "0e85df84a4dfeaba",
   "lastOpenFiles": [
+    "01_IELTS_Academic/Reading/Practice/Starting school later has positive effect on teens.md",
+    "01_IELTS_Academic/Reading/Practice/Stepwells.md",
+    "01_IELTS_Academic/Reading/Practice/Inside the mouth-watering race to master lab-grown chocolate.md",
+    "01_IELTS_Academic/Reading/Practice/FAIR GAMES? - Reading passage 2.md",
+    "01_IELTS_Academic/Reading/Practice/Computer games.md",
+    "01_IELTS_Academic/Reading/Practice/A survivor's story.md",
+    "Atomic habits ( PDFDrive ).pdf",
+    "01_IELTS_Academic/Listening/Test 2- up.pdf",
+    "01_IELTS_Academic/Listening/Test 2 - script.md",
+    "01_IELTS_Academic/Video summary.md",
+    "01_IELTS_Academic/Listening",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "01_IELTS_Academic/Writing/Practice/Task 1.md",
+    "01_IELTS_Academic/Writing/Practice/Writing - Practice-1.md",
+    "01_IELTS_Academic/Writing/Practice/1.png",
+    "01_IELTS_Academic/Writing/Writing haqida.md",
+    "01_IELTS_Academic/Writing/Writing tricks from Gemini.md",
+    "01_IELTS_Academic/Writing/TASK_1/Task 1 - Overview.md",
+    "01_IELTS_Academic/Writing/TASK_1/Task 1 - Introduction.md",
+    "01_IELTS_Academic/Writing/Practice",
     "01_IELTS_Academic/Reading/Curiosity/Test 15-The history (impact) of the Potato.md",
     "01_IELTS_Academic/Reading/Curiosity/Curiosity 1.0.pdf",
-    "DEVOPS/Test 15-The history (impact) of the Potato.pdf",
-    "Tags/IELTS.md",
-    "Tags/BASH.md",
-    "01_IELTS_Academic/Writing/Writing haqida.md",
-    "Tags/WRITING.md",
-    "Tags/ENGLISH.md",
-    "01_IELTS_Academic/Writing/SYNONYMS.md",
-    "01_IELTS_Academic/Reading/Inside the mouth-watering race to master lab-grown chocolate.md",
-    "01_IELTS_Academic/Reading/FAIR GAMES? - Reading passage 2.md",
-    "Untitled.base",
-    "annotation-note.svg",
-    "2026-04-23.md",
-    "DEVOPS/01_PHP_Server_Maintaining_e_g.md",
+    "01_IELTS_Academic/Reading/Curiosity/Test 12-The History of the Globe Theatre.md",
+    "01_IELTS_Academic/Reading/Practice",
+    "01_IELTS_Academic/Reading/Curiosity/Test 14-The History of Building Telegraph Lines.md",
+    "01_IELTS_Academic/Reading/Curiosity/Test 13-The History of Dolls.md",
     "Untitled.canvas",
-    "01_IELTS_Academic/Reading/Curiosity",
-    "01_IELTS_Academic/Writing/Writing - Practice-1.md",
-    "Tags/ESSAY.md",
-    "Tags/READING.md",
-    "Tags/LINUX.md",
-    "Tags/DEVOPS.md",
-    "01_IELTS_Academic/Writing/TASK_1/MAPS.md",
-    "01_IELTS_Academic/Reading",
-    "01_IELTS_Academic/Writing/TASK_1/Task 1 - Introduction.md",
-    "01_IELTS_Academic/Writing/TASK_1/Task 1 - Overview.md",
-    "DEVOPS/CHMOD va CHOWN.md",
-    "DEVOPS/CHOWN.md",
-    "DEVOPS",
-    "2026-02-26.md",
-    "Tags",
-    "01_IELTS_Academic/Writing/TASK_2",
-    "01_IELTS_Academic/Writing/TASK_1",
-    "01_IELTS_Academic/Writing",
-    "Welcome.md"
+    "Homepage.md",
+    "copilot/copilot-conversations/Obsidian_Copilot_tanishtiruvi@20260423_113502.md",
+    "Tags/BASH.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/memory",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "annotation-note.svg"
   ]
 }
