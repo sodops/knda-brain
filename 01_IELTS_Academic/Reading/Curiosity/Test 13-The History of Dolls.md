@@ -1,3 +1,4 @@
+ [[READING]] [[CURIOSITY]]
 ![[Curiosity 1.0.pdf#page=51&rect=53,233,560,787|Curiosity 1.0, p.51]]
 1.wood
 2.claw

@@ -1,4 +1,4 @@
-[[WRITING]] [[ENGLISH]] [[IELTS]]
+[[WRITING]] [[PRACTICE]]
 Task 1
 
 The image illustrates how a museum changed from 1957 to 2007

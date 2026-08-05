@@ -1,4 +1,4 @@
-[[LINUX]] - [[DEVOPS]] - [[BASH]]
+[[LINUX]]
 
 # CHMOD - Change Mod
 Tizimdagi Fayllarning katologlarning  ruhsatlarini o'zgartirish uchun foydalaniladigan buyruq

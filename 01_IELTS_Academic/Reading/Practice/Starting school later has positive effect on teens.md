@@ -1,4 +1,4 @@
-
+ [[READING]] [[PRACTICE]]
 advocacy - himoya qilish
 myriad - son-sanoqsiz
 mutability - o'zgaruvchanlik

@@ -1,4 +1,4 @@
-[[ENGLISH]] - [[IELTS]] - [[Tags/WRITING]] 
+[[WRITING]]
 - **Most popular / Primary / Main** — eng asosiy, eng ko'p.
 - **Least common / Lowest** — eng kam.
 - **Whereas / While** — ...bo'lgan bir paytda (solishtirish uchun).

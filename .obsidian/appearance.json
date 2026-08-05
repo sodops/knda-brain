@@ -1,9 +1,12 @@
 {
-  "accentColor": "#704ec1",
-  "baseFontSize": 23,
+  "accentColor": "",
+  "baseFontSize": 26,
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "matugen"
+  ]
 }

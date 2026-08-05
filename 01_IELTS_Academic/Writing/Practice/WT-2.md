@@ -1,0 +1,10 @@
+[[WRITING]] [[PRACTICE]]
+**Some people think the newly built houses should be the same as the old house style in local areas.Other  argue that local aauthorities should allow people to build houses in their own styles.**
+**Discuss both views and give your opinion.**
+
+
+There are ~~have~~ two types of <u><font color="#c0504d">people</font>s</u> who debate <font color="#c0504d">with</font> ~~this problem~~ each other. <font color="#c0504d">Some</font>~~ones~~ say that the old styles are the best, because ~~it~~ <font color="#c0504d">they</font> help to people save their cultures and local traditions.Others believe that the authorities should allow the peoples to customize their homes by themselves, because ~~the~~ freedom is the key of ~~perspective~~ <font color="#c0504d">to progress</font> ~~in~~ nowadays , This essay ~~debate~~ <font color="#c0504d">discusses</font> the both ~~perspectives~~ <font color="#c0504d">viewpoints</font> before  my own conclusion.
+
+One of the main reason<font color="#c0504d">s</font> for supporting the traditional styles is to prevent the loss of the historical bond. ~~Also~~ <font color="#c0504d">Furthermore</font> older house style<font color="#c0504d">s</font> help people~~s~~ to feel nostalgic  about what the old days were like, which strengthens their connection to their cultural heritage.For example, ~~old~~ <font color="#c0504d">traditional</font> houses in villages often serve a major  tourists attraction and help local economy.
+
+~~In~~ <font color="#c0504d">On</font> the other hand , people must have permission to customize their houses ~~by~~<font color="#c0504d"> on their</font> own, because liberty is the major aspect of ~~the~~ life. ~~In~~ modern families need the modern technologies, ~~it doesn't~~ <font color="#c0504d">they do not</font>  fit the theme of the old style. Moreover the newest methods of ~~styling~~ construction ~~is~~ <font color="#c0504d">are</font> much cheaper than the oldest one.

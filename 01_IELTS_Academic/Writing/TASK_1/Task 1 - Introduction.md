@@ -1,4 +1,4 @@
-[[ENGLISH]] - [[IELTS]] - [[Tags/WRITING]] 
+[[WRITING]]
 
 Introduction bu task birdaa yozilgan headerni paraphrase  qila olsih va muamoni aniq tushuntira olish qobilyatini tekshirishdur, bu qismda shunchaki sarlavhani bitta gap bilan aylantirish kerak.
 
@@ -26,5 +26,9 @@ Part 1: The chart **gives information** about the number and **purposes** of tri
 
 Introduction
 The bar chart **depicts** the **reasons for trips** made by **males and females** in a European country **over a one-year period.**
+
+
+
+
 
 

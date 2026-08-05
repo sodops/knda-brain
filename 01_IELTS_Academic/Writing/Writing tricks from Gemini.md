@@ -1,3 +1,4 @@
+[[WRITING]]
 Writingni o‘rganish — bu marafon, ya’ni bir kunda 10 soat shug‘ullanib, keyin tashlab qo‘yish foyda bermaydi. Eng asosiysi **tizim**. Sizda grammatika va gap tuzishda muammo bo‘lgani uchun, quyidagi **"3 bosqichli strategiya"** ni tavsiya qilaman.
 
 Bir kunda jami **1—1.5 soat** yetarli, lekin buni har kuni qilish shart.

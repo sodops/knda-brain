@@ -1,3 +1,4 @@
+[[WRITING]] [[PRACTICE]]
 ![[1.png]]
 
 The bar chart shows the quantity of films created by five countries between 2007 and 2009

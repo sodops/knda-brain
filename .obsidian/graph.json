@@ -6,7 +6,43 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:01_IELTS_Academic/Reading  ",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    },
+    {
+      "query": "path:01_IELTS_Academic/Listening  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:01_IELTS_Academic/Writing  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Tags ",
+      "color": {
+        "a": 1,
+        "rgb": 16337080
+      }
+    },
+    {
+      "query": "path:DEVOPS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7557371083868737,
+  "scale": 0.7605956381918635,
   "close": true
 }

@@ -1,3 +1,4 @@
+ [[READING]] [[CURIOSITY]]
 <font color="#9bbb59">cultivated</font>- yetishtirilgan
 <font color="#9bbb59">through</font> - garchi
 <font color="#9bbb59">distribution</font> - tarqatish

@@ -1,4 +1,4 @@
-[[ENGLISH]] - [[IELTS]] - [[Tags/WRITING]] 
+[[WRITING]]
 Overview qismida trenddagi eng muhim ko'zga tashlanadigan o'zgarishlar yoziladi, dominatlar yoki eng past davlatlar
 
 Overview qismi hardoim , `Overall` kalit so'zi bilan boshlandi 

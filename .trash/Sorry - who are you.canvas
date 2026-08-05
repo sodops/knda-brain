@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"dfb78042aa96e7db","type":"group","x":-2240,"y":-880,"width":960,"height":691,"label":"Reading"},
+		{"id":"63407f96eca71efb","type":"group","x":-1160,"y":-880,"width":700,"height":860,"label":"Questions"},
+		{"id":"b4caf2b96d66a329","type":"text","text":"","x":-1395,"y":-377,"width":250,"height":60},
+		{"id":"45b564b90608bf2a","type":"file","file":"01_IELTS_Academic/Reading/Rimages/Pasted image 20260502130229.png","x":-1120,"y":-480,"width":655,"height":440},
+		{"id":"a8b6991fd4020d1a","type":"file","file":"01_IELTS_Academic/Reading/Practice/Sorry - who are you.md","x":-2220,"y":-140,"width":760,"height":649},
+		{"id":"7bee71b6eb52138f","type":"file","file":"01_IELTS_Academic/Reading/Rimages/Pasted image 20260502125915.png","x":-1100,"y":-800,"width":554,"height":280},
+		{"id":"815d3858b59b1331","type":"file","file":"01_IELTS_Academic/Reading/Rimages/Sorry - who are you.png","x":-2220,"y":-880,"width":460,"height":651},
+		{"id":"d19752ae85a342b4","type":"file","file":"01_IELTS_Academic/Reading/Rimages/sorry-who are you 2.png","x":-1760,"y":-880,"width":460,"height":651}
+	],
+	"edges":[]
+}

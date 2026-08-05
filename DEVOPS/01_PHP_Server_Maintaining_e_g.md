@@ -1,4 +1,4 @@
-[[LINUX]] - [[DEVOPS]] - [[]]
+ [[DEVOPS]]
 #### 1-qadam: Loyihani joylashtirish
 
 ZIP faylni serverga (masalan, `/var/www/mysite` papkasiga) yuklang va oching:

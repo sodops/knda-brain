@@ -1,3 +1,4 @@
+[[READING]] [[CURIOSITY]]
 ![[Curiosity 1.0.pdf#page=47&rect=54,481,511,782|Curiosity 1.0, p.47]]
 
 1.F

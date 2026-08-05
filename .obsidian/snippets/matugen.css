@@ -1,0 +1,37 @@
+/* Matugen -> Obsidian sync */
+.theme-dark, .theme-light {
+    --background-primary: #151218;
+    --background-primary-alt: #211e24;
+    --background-secondary: #1d1a20;
+    --background-secondary-alt: #2c292f;
+    --background-modifier-border: #958e98;
+    --background-modifier-hover: #373339;
+
+    --text-normal: #e8e0e8;
+    --text-muted: #ccc4cf;
+    --text-faint: #958e98;
+    --text-accent: #d8bafa;
+    --text-accent-hover: #d8bafa;
+    --text-on-accent: #3c245a;
+
+    --interactive-accent: #d8bafa;
+    --interactive-accent-hover: #d8bafa;
+    --interactive-normal: #211e24;
+    --interactive-hover: #2c292f;
+
+    --text-error: #ffb4ab;
+    --text-highlight-bg: #653b42;
+ /* Graph view sozlamalari */
+    --graph-line: #4a454e;
+    --graph-node: #d8bafa;
+    --graph-node-unresolved: #ccc4cf;
+    --graph-node-attachment: #f2b7c0;
+    --graph-node-tag: #cfc1da;
+    --graph-node-focused: #543b72;
+    --graph-text: #e8e0e8;
+  /*  --background-modifier-border-focus: #4a454e;
+    --background-modifier-border-hover: #4a454e;
+    */--divider-color: #4a454e;
+/*    --tab-outline-color: #4a454e;
+    --tab-outline-width: 1px;*/
+}
